@@ -1,2 +1,2 @@
 hello
-append hello
+append hello 中文字
